@@ -2,7 +2,7 @@
 This program asks the user to enter a sentence and then scans each character to find all uppercase letters.  
 All detected uppercase letters are collected and printed in a clean, comma‑separated list.
 
-# Features
+## Features
 - Asks the user to input any sentence
 - Checks each character with `isupper()`
 - Stores all uppercase letters in a list
